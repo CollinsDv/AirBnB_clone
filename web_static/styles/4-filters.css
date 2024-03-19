@@ -21,6 +21,6 @@ section.filters button {
 	margin-right: 30px;
 }
 
-button:hover {
+section.filters button:hover {
 	opacity: .9;
 }
